@@ -1,0 +1,14 @@
+C:/flutterr/education/build/windows/runner/Debug/data/icudtl.dat
+C:/flutterr/education/build/windows/runner/Debug/flutter_windows.dll
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/images/books.png
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/images/C%23.png
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/images/Flutter.png
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/images/Python.png
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/images/React%20Native.png
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/flutterr/education/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
